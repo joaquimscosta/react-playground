@@ -2,9 +2,7 @@ import Button from "../components/Button";
 import { GoBellFill, GoDatabase, GoHomeFill } from "react-icons/go";
 
 function ButtonApp() {
-  const handleClick = () => {
-    console.log("hello");
-  };
+  const handleClick = () => {};
 
   return (
     <div>
