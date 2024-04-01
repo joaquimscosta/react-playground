@@ -1,3 +1,5 @@
+import { Fragment } from "react";
+
 function Table({ data, config, keyFn }) {
   const tableBody = data.map((row) => {
     const renderCells = config.map((column) => {
@@ -14,8 +16,11 @@ function Table({ data, config, keyFn }) {
       </tr>
     );
   });
-  const tableHeaders = config.map((row) => {
-    return <td>{row.label}</td>;
+  const tableHeaders = config.map((column) => {
+    if (column.header) {
+      return <Fragment key={column.label}>{column.header()}</Fragment>;
+    }
+    return <td key={column.label}>{column.label}</td>;
   });
   return (
     <table className="table-auto border-spacing-2">
