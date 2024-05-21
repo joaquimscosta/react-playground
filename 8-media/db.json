@@ -1,5 +1,194 @@
 {
-  "users":[],
-  "albums":[],
-  "photos":[]
+  "users": [
+    {
+      "name": "John Doe",
+      "id": "1"
+    },
+    {
+      "id": "51b7",
+      "name": "David Schiller"
+    },
+    {
+      "id": "231a",
+      "name": "Marvin Doyle"
+    },
+    {
+      "id": "f430",
+      "name": "Lorenzo Thiel"
+    },
+    {
+      "id": "8ca2",
+      "name": "Brittany Bednar"
+    },
+    {
+      "id": "ba65",
+      "name": "Manuel O'Reilly"
+    },
+    {
+      "id": "2fd8",
+      "name": "Erika Bayer V"
+    },
+    {
+      "id": "001d",
+      "name": "Simon Willms"
+    },
+    {
+      "id": "fe7b",
+      "name": "Bernice Schmidt"
+    },
+    {
+      "id": "d086",
+      "name": "Emanuel Sipes"
+    },
+    {
+      "id": "b66a",
+      "name": "Byron Sanford"
+    },
+    {
+      "id": "ce35",
+      "name": "Kayla Boyle III"
+    },
+    {
+      "id": "4b22",
+      "name": "Drew Green"
+    },
+    {
+      "id": "59d4",
+      "name": "Mr. Penny Konopelski"
+    },
+    {
+      "id": "06be",
+      "name": "Linda Jenkins"
+    },
+    {
+      "id": "8f46",
+      "name": "Calvin Larson"
+    },
+    {
+      "id": "6e43",
+      "name": "Alyssa Goyette"
+    },
+    {
+      "id": "9c30",
+      "name": "Ada Schmitt"
+    },
+    {
+      "id": "8afc",
+      "name": "Jon Murphy"
+    },
+    {
+      "id": "cfdb",
+      "name": "Muriel Bode"
+    },
+    {
+      "id": "1603",
+      "name": "Dr. Roberta Hodkiewicz IV"
+    },
+    {
+      "id": "f0f1",
+      "name": "Muriel Kiehn"
+    },
+    {
+      "id": "b061",
+      "name": "Clayton Rau"
+    },
+    {
+      "id": "f0c7",
+      "name": "Johnny Jacobs"
+    },
+    {
+      "id": "1679",
+      "name": "Blake Kreiger I"
+    },
+    {
+      "id": "0272",
+      "name": "Scott Willms"
+    },
+    {
+      "id": "105e",
+      "name": "Dr. Louise Nicolas"
+    },
+    {
+      "id": "991a",
+      "name": "Joanna Klein"
+    },
+    {
+      "id": "74c7",
+      "name": "Dominic Braun"
+    },
+    {
+      "id": "ac95",
+      "name": "Georgia Kling DVM"
+    },
+    {
+      "id": "ba29",
+      "name": "Jean Langworth"
+    },
+    {
+      "id": "9f07",
+      "name": "Jon Ondricka V"
+    },
+    {
+      "id": "fd4c",
+      "name": "Kara Lowe"
+    },
+    {
+      "id": "3b50",
+      "name": "Roberto Casper"
+    },
+    {
+      "id": "b4ae",
+      "name": "Shannon Rodriguez"
+    },
+    {
+      "id": "400b",
+      "name": "Dr. Claude Rosenbaum"
+    },
+    {
+      "id": "6a28",
+      "name": "Santos Ondricka"
+    },
+    {
+      "id": "c421",
+      "name": "Mable Runolfsson"
+    },
+    {
+      "id": "c6e1",
+      "name": "Miss Rose Morar"
+    },
+    {
+      "id": "7a7c",
+      "name": "Sharon Franey"
+    },
+    {
+      "id": "fb86",
+      "name": "Noel Toy"
+    },
+    {
+      "id": "306c",
+      "name": "Shirley Kertzmann"
+    },
+    {
+      "id": "4b98",
+      "name": "Jeannie Grant"
+    },
+    {
+      "id": "9a03",
+      "name": "Ebony King"
+    },
+    {
+      "id": "cb1a",
+      "name": "Amos Lind"
+    },
+    {
+      "id": "74d3",
+      "name": "Sonja Erdman"
+    },
+    {
+      "id": "bc0a",
+      "name": "Dr. Pam Macejkovic"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
