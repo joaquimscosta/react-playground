@@ -33,15 +33,15 @@ This repository contains various projects created while learning React from the 
 
 3. Install dependencies:
 
-```sh
-npm install
-```
+  ```sh
+  npm install
+  ```
 
 4. Start the development server:
 
-```sh
-npm start
-```
+  ```sh
+  npm start
+  ```
 
 5. Open your browser and navigate to <http://localhost:3000>.
 
